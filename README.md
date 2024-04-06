@@ -1,2 +1,2 @@
 # CodSoft
-Landing Page Using Html and CSS
+#Calculatar Using HTML,CSS and JAVASCRIPT
