@@ -1,3 +1,2 @@
 # CodSoft
-Task 3
-#Calculatar Using HTML,CSS and JAVASCRIPT
+This repo consists of all my internship tasks under CodSoft
